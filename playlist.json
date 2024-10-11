@@ -1,0 +1,229 @@
+[
+    {
+        "name": "BombayBeats",
+        "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
+        "favicon": "https://www.1.fm/images/favicon.ico"
+    },
+    {
+        "name": "Asian Star Radio",
+        "url": "http://icecast.commedia.org.uk:8000/asianstar.mp3",
+        "favicon": "https://cdn-profiles.tunein.com/s67833/images/logod.png"
+    },
+    {
+        "name": "Bollyhitsradio",
+        "url": "http://hoth.alonhosting.com:1100/;",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/1/88371.v3.png"
+    },
+    {
+        "name": "Bollywood_Dance",
+        "url": "http://drive.uber.radio/uber/bollywooddance/icecast.audio",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/2/106272.v2.png"
+    },
+    {
+        "name": "bollywoodandbeyond",
+        "url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live",
+        "favicon": "https://www.radiodirecto.com/images/logos-radio/radioendirecto1106.jpg"
+    },
+    {
+        "name": "bollywooddance",
+        "url": "https://drive.uber.radio/uber/bollywooddance/icecast.audio",
+        "favicon": "https://indiaradio.in/wp-content/uploads/2024/01/bollywood-dance-radio.jpg"
+    },
+    {
+        "name": "Tinder Radio - Bollywood",
+        "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+        "favicon": "https://www.radio.net/300/tinderradiobollywood.png"
+    },
+    {
+        "name": "Desi zone radio",
+        "url": "https://www.desizoneradio.com/relay1",
+        "favicon": "https://www.desizoneradio.com/images/favicons/favicon-96x96.png"
+    },
+    {
+        "name": "desibollywood",
+        "url": "https://www.desizoneradio.com/relay2",
+        "favicon": "https://onlineradiofm.in/assets/image/radio/180/hindi-desi-bollywood-evergreen-hits.webp"
+    },
+    {
+        "name": "Nostalgic bollywood 90s radio",
+        "url": "https://www.desizoneradio.com/relay3",
+        "favicon": "https://liveradios.in/wp-content/uploads/Nostalgic-Bollywood-90s.jpg"
+    },
+    {
+        "name": "Exclusively bollywood radio",
+        "url": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+        "favicon": "https://liveradios.in/wp-content/uploads/exclusiveradio.jpg"
+    },
+    {
+        "name": "FM 24 Bhiwadi 90.8",
+        "url": "https://streamasiacdn.atc-labs.com/24network.aac",
+        "favicon": "https://liveradios.in/wp-content/uploads/fm24.jpg"
+    },
+    {
+        "name": "HJ94.1 Boom FM Georgetown",
+        "url": "http://192.99.8.192:3630/stream",
+        "favicon": "https://www.radio-addict.com/media/stream/961d0d6b-0601-11e8-ae97-52543be04c81_4221C41188C364B5E467210623B7AA43_onestop_6302491_73162.jpg"
+    },
+    {
+        "name": "Hum FM 106.2",
+        "url": "https://server.mediacast4u.stream/8002/stream",
+        "favicon": "http://fmradios.in/wp-content/uploads/2009/11/HUM-FM-106.2-Radio-Live-Streaming-Online-300x169.jpg"
+    },
+    {
+        "name": "Indifun Radio",
+        "url": "http://162.241.114.203:7000/listen.pls?sid=1",
+        "favicon": "http://indifun.net/wp-content/uploads/2018/03/logo_indifun_transparent_play-up_IFblack.png"
+    },
+    {
+        "name": "rad",
+        "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/7/116687.v1.png"
+    },
+    {
+        "name": "KSJO-FM Bolly 92.3 FM",
+        "url": "http://www.streamcontrol.net:12010/listen.pls",
+        "favicon": "https://bolly923fm.com/wp-content/uploads/2023/03/cropped-Bolly923Logo2021-2-192x192.png"
+    },
+    {
+        "name": "Mirchi Love Hindi",
+        "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+        "favicon": "https://liveradios.in/wp-content/uploads/mirchilove-1.jpg"
+    },
+    {
+        "name": "mirchitop20",
+        "url": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+        "favicon": "https://liveradios.in/wp-content/uploads/mirchitop20.jpg"
+    },
+    {
+        "name": "MixiFy Hindi Hits",
+        "url": "https://server.mixify.in/listen/new_hits/radio.mp3",
+        "favicon": "https://www.radio.net/300/mixifyhindihits.png"
+    },
+    {
+        "name": "NitNut Radio",
+        "url": "http://103.179.56.26:8000/radio.aac",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/6/68836.v29.png"
+    },
+    {
+        "name": "NTN Radio 89.1 Georgetown",
+        "url": "http://auds1.intacs.com/ntnradio",
+        "favicon": "https://www.programmes-radio.com/media/stream/96486b05-0601-11e8-ae97-52543be04c81_91B83A9F27F4AE5A34ED5C74963FD264_logbird.png"
+    },
+    {
+        "name": "radioaashiqanaa",
+        "url": "https://sonic.onlineaudience.co.uk/8114/stream",
+        "favicon": "https://onlineradiofm.in/assets/image/radio/180/radioaashiqanaa.png"
+    },
+    {
+        "name": "Radio Central 24",
+        "url": "https://casper.radioca.st/;",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/1/32801.v13.png"
+    },
+    {
+        "name": "radiosbsfm",
+        "url": "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs",
+        "favicon": "https://radiosbs.nl/wp-content/uploads/2021/04/SBS-Logo-150x150.jpg.webp"
+    },
+    {
+        "name": "Radio Tarana",
+        "url": "http://ais-nzme.streamguys1.com/nz_116_aac",
+        "favicon": "https://onlineradiofm.in/assets/image/radio/180/tarana.png"
+    },
+    {
+        "name": "Radio Udaan",
+        "url": "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3",
+        "favicon": "https://www.radioudaan.com/sites/default/files/Radioudaan%20small%202_0.png"
+    },
+    {
+        "name": "shreyaghosal",
+        "url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+        "favicon": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/0oOet2f43PA68X5RxKobEy/en"
+    },
+    {
+        "name": "Sportify bollywood workout",
+        "url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+        "favicon": "https://manager.uber.radio/static/uploads/station/324fec5c-7448-44d8-98d4-6ea16d50c3f9.png"
+    },
+    {
+        "name": "Tinder radio bollywood",
+        "url": "https://2.mystreaming.net/uber/bollywoodmix/icecast.audio",
+        "favicon": "https://www.radio.net/300/tinderradiobollywood.png?version=b335fd3f7e8e2cc3930d4372e973117e"
+    },
+    {
+        "name": "Ujala Radio",
+        "url": "http://stream2.ujala.nl/stream/2/listen.mp3",
+        "favicon": "https://onlineradiofm.in/assets/image/radio/180/Ugala-Radio.png"
+    },
+    {
+        "name": "World music radio bollywood",
+        "url": "http://streaming.exclusive.radio/er/bollywood/icecast.audio",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/3/91363.v9.png"
+    },
+    {
+        "name": "XL:UK Radio",
+        "url": "https://s3.radio.co/s113a5dc46/listen",
+        "favicon": "https://cdn.onlineradiobox.com/img/l/9/102669.v3.png"
+    },
+    {
+        "name": "BFBS Gurkha Radio",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+        "favicon": "https://images.hamro-files.com/ubEjbiqNTwc5G1FsMN4WkOwNlD0=/500x500/https://sgp1.digitaloceanspaces.com/everestdb/hamropatro-backend/radio/482b1d04-d090-4638-8cf0-4b63f42500c9"
+    },
+    {
+        "name": "Capital FM 92.4",
+        "url": "http://streaming.softnep.net:8037/;",
+        "favicon": "https://www.cfmonair.com/images/logo.png"
+    },
+    "",
+    {
+        "name": "Hits FM 91.2",
+        "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+        "favicon": "https://www.hitsfm.com.np/wordpress/wp-content/uploads/2016/12/logo-header-1.png"
+    },
+    {
+        "name": "Kalika FM",
+        "url": "http://kalika-stream.softnep.com:7740/;",
+        "favicon": "https://images.hamro-files.com/puZ9tS3OF9yg18n9nxTkT_ZOXZY=/500x500/https://sgp1.digitaloceanspaces.com/everestdb/hamropatro-backend/radio/a5aa11c1-0827-41de-97cc-dd5cbf3ad83e"
+    },
+    {
+        "name": "Radio Kantipur FM 96.1 MHz",
+        "url": "https://radio-broadcast.ekantipur.com/stream",
+        "favicon": "https://images.hamro-files.com/lQdWF7QiKwAEn42Pt1bTR46Dgws=/500x500/https://sgp1.digitaloceanspaces.com/everestdb/hamropatro-backend/radio/b9ab2bab-961b-4426-b17b-f5bf7922d3ba"
+    },
+    {
+        "name": "Khozee Radio",
+        "url": "http://216.55.141.189:8060/stream/1/",
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s252014d.png"
+    },
+    {
+        "name": "Naya Radio",
+        "url": "http://live.itech.host:1110/;",
+        "favicon": ""
+    },
+    {
+        "name": "Radio Sahino",
+        "url": "http://live.itech.host:7093/live",
+        "favicon": "https://www.listenlive.nl/image/logo/69163.gif"
+    },
+    {
+        "name": "Radio Sathi",
+        "url": "http://live.itech.host:7115/live",
+        "favicon": "https://www.radiosathi.com/themes/radio-sathi/images/logo.png"
+    },
+    {
+        "name": "RadioSagar",
+        "url": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+        "favicon": "https://liveonlineradio.net/wp-content/uploads/2018/04/RadioSagar-220x108.jpg"
+    },
+    "",
+    {
+        "name": "Vijaya FM 101.6",
+        "url": "https://live.itech.host:3320/stream",
+        "favicon": "https://vijayafm.org.np/uploads/logo/vfm-yellwo-3rd2024-07-18-04-56-16.png"
+    },
+    {
+        "name": "Radio Himalaya",
+        "url": "https://live.itech.host/himalayaradio",
+        "favicon": "https://radiohimalaya.com/assets/images/logo.jpg"
+    }
+]
